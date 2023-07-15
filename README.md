@@ -1,4 +1,4 @@
-<ins>### Hi there, I'm Jaison Joshi 👋</ins>
+### Hi there, I'm Jaison Joshi 👋
 
 
 🧑‍💻 Passionate software developer
