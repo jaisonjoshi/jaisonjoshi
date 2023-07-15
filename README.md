@@ -1,5 +1,6 @@
-### Hi there, I'm Jaison Joshi 👋
-<hr>
+<ins>### Hi there, I'm Jaison Joshi 👋</ins>
+
+
 🧑‍💻 Passionate software developer
 <br>
 🔭 I’m currently working on Mern stack development
