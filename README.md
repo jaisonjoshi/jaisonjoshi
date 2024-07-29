@@ -22,4 +22,8 @@
 ## :hammer_and_wrench: Languages and Tools :
 [![My Skills](https://skillicons.dev/icons?i=java,js,html,css,ts)](https://skillicons.dev)
 <br>
-[![My Skills](https://skillicons.dev/icons?i=spring,react,nodejs,express,nextjs,mongodb,mysql)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=spring,react,nodejs,express,nextjs,electron,mongodb,mysql,nginx,aws,)](https://skillicons.dev)
+<br>
+[![My Skills](https://skillicons.dev/icons?i=saas,tailwind,materialui,bootstrap)](https://skillicons.dev)
+<br>
+[![My Skills](https://skillicons.dev/icons?i=git,figma)](https://skillicons.dev)
