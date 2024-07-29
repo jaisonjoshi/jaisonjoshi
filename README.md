@@ -20,4 +20,4 @@
 <br>
 
 ## :hammer_and_wrench: Languages and Tools :
-[![My Skills](https://skills.thijs.gg/icons?i=html,css,js,c,cpp,py,jquery,react,express,nodejs,mongodb,aws,git,electron,sass,tailwind,materialui,bootstrap,figma,ps&theme=light)](https://skills.this.gg)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
