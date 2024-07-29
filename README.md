@@ -24,6 +24,6 @@
 <br>
 [![My Skills](https://skillicons.dev/icons?i=spring,react,nodejs,express,nextjs,electron,mongodb,mysql,nginx,aws,)](https://skillicons.dev)
 <br>
-[![My Skills](https://skillicons.dev/icons?i=saas,tailwind,materialui,bootstrap)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=sass,tailwind,materialui,bootstrap)](https://skillicons.dev)
 <br>
 [![My Skills](https://skillicons.dev/icons?i=git,figma)](https://skillicons.dev)
