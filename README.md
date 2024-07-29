@@ -20,4 +20,5 @@
 <br>
 
 ## :hammer_and_wrench: Languages and Tools :
+[![My Skills](https://skillicons.dev/icons?i=java,js,html,css)](https://skillicons.dev)
 [![My Skills](https://skillicons.dev/icons?i=java,js)](https://skillicons.dev)
